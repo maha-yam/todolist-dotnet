@@ -17,7 +17,7 @@ class ToDoListApp
 
         public override string ToString()
         {
-            string statut = EstTerminee ? "[✓]" : "[ ]";
+            string statut = EstTerminee ? "[x]" : "[ ]";
             return $"{statut} {Description}";
         }
     }

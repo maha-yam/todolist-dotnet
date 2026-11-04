@@ -1,19 +1,15 @@
-# ✅ To-Do List — Application console C# / .NET
+# To-Do List : Application console C# / .NET
 
-> Gestionnaire de tâches en ligne de commande écrit en **C#** : ajout, affichage, validation et suppression de tâches.
+Gestionnaire de tâches en ligne de commande écrit en **C#** : ajout, affichage, validation et suppression de tâches.
 
-![C#](https://img.shields.io/badge/C%23-.NET%2010-512BD4?logo=dotnet&logoColor=white)
-
-**Contexte :** projet académique — module .NET / programmation orientée objet, EMSI Rabat.
-
----
+**Contexte :** projet académique, module .NET / programmation orientée objet, EMSI Rabat.
 
 ## Fonctionnalités
 
-- ➕ Ajouter une tâche
-- 📋 Afficher toutes les tâches avec leur statut (`[ ]` / `[✓]`)
-- ✔️ Marquer une tâche comme terminée
-- 🗑️ Supprimer une tâche
+- Ajouter une tâche
+- Afficher toutes les tâches avec leur statut (`[ ]` ou `[x]`)
+- Marquer une tâche comme terminée
+- Supprimer une tâche
 - Menu interactif et validation des saisies
 
 ## Concepts mis en œuvre
@@ -27,6 +23,6 @@ cd todolistApp
 dotnet run
 ```
 
-## 👩‍💻 Auteure
+## Auteure
 
-**Maha El Yamni** — [GitHub](https://github.com/maha-yam)
+**Maha El Yamni**, [GitHub](https://github.com/maha-yam)
